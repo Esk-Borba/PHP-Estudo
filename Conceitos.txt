@@ -1,0 +1,22 @@
+Arquivo de configuração do APACHE
+HTTPD.CONF
+
+Portas APACHE
+Padrão: 80
+HTTPS: 443
+
+Porta MySQL
+Padrão: 3306
+
+Tag de abertura 
+<?php
+
+Tag de fechamento
+?>
+
+
+Pasta Padrão
+htdocs
+
+
+Arquitetura Cliente Servidor
