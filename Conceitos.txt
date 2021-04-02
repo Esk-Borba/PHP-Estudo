@@ -20,3 +20,20 @@ htdocs
 
 
 Arquitetura Cliente Servidor
+
+
+Request(Client) = Requisitar/Solicitar
+Response(Server) = Resposta
+
+PHP funciona no lado do Servidor e sempre devolve HTML
+
+
+Controle de Versão
+Git
+
+Da um clone, mas cria a pasta com o nome escolhido
+git clone (endereço) nome de preferencia
+
+stage area = sala de espera(git add .)
+
+
